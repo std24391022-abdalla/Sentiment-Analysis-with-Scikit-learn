@@ -1,2 +1,5 @@
 .DS_Store
 yelp_dataset/
+.venv/
+.venv-win/
+.ipynb_checkpoints/
